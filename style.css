@@ -17,4 +17,11 @@ header, footer{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
+form{
+    text-align: center;
+}
+#formHeading{
+    text-align: center;
+}
+
 
